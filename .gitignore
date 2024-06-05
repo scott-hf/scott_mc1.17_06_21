@@ -4,3 +4,4 @@
 # Except for the minecraftinstance.json file
 !minecraftinstance.json
 !.gitignore
+!.curseclient
