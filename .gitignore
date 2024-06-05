@@ -1,2 +1,7 @@
 
 /.fabric
+*.log
+/downloads
+/logs
+config/iris.properties
+/XaeroWaypoints
