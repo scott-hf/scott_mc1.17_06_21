@@ -6,3 +6,15 @@
 config/iris.properties
 /XaeroWaypoints
 /XaeroWorldMap
+data/fabricDefaultResourcePacks.dat
+config/xaeroworldmap.txt
+config/xaeroworldmap-common.txt
+config/xaeropatreon.txt
+config/xaerominimap_entities.json
+config/xaerominimap.txt
+config/xaerominimap-common.txt
+config/languagereload.json
+config/iris.properties
+config/inventoryhud.json
+config/indium-renderer.properties
+config/fabric/indigo-renderer.properties
