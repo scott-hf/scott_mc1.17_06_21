@@ -18,3 +18,4 @@ config/iris.properties
 config/inventoryhud.json
 config/indium-renderer.properties
 config/fabric/indigo-renderer.properties
+config/languagereload.json
