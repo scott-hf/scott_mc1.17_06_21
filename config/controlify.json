@@ -1,5 +1,4 @@
 {
-  "last_seen_version": "2.0.0-beta.10+1.20.6",
   "current_controller": null,
   "controllers": {},
   "global": {
@@ -9,14 +8,14 @@
     "keyboardMovement": false,
     "keyboard_movement_whitelist": [],
     "out_of_focus_input": false,
-    "load_vibration_natives": false,
+    "load_vibration_natives": true,
     "custom_vibration_natives_path": "",
-    "vibration_onboarded": false,
+    "vibration_onboarded": true,
     "reach_around": "OFF",
     "allow_server_rumble": true,
     "ui_sounds": false,
     "notify_low_battery": true,
-    "quiet_mode": true,
+    "quiet_mode": false,
     "ingame_button_guide_scale": 1.0,
     "seen_servers": []
   }
