@@ -27,3 +27,5 @@ servers.dat_old
 realms_persistence.json
 options.txt
 config/fabric/indigo-renderer.properties
+config/iris.properties
+config/fabric/indigo-renderer.properties
